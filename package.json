@@ -1,0 +1,13 @@
+{
+  "name": "react_native_and_web",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "nx": "^20.8.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

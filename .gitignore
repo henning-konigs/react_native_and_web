@@ -45,6 +45,9 @@ app-example
 /.pnp
 .pnp.js
 
+#nx
+.nx
+
 # testing
 /coverage
 
